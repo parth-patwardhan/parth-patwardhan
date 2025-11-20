@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parth-patwardhan
-- 👀 I’m interested in ... Neural Networks and Text Mining
-- 🌱 I’m currently learning ...Python,UiPath 
+- 👀 I’m interested in ... Neural Networks and Text Mining,Temporal Graphs with rich hierarchy and deep neural networks
+- 🌱 I’m currently learning ...GCP,Advanced AWS 
 - 💞️ I’m looking to collaborate on ...Automation Projects, algorithm Implementation.
 - 📫 How to reach me ... parth_2001@icloud.com
 
