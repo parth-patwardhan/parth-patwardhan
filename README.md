@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @parth-patwardhan
-- 👀 I’m interested in ... Neural Networks and Text Mining,Temporal Graphs with rich hierarchy and deep neural networks
-- 🌱 I’m currently learning ...GCP,Advanced AWS 
-- 💞️ I’m looking to collaborate on ...Automation Projects, algorithm Implementation.
-- 📫 How to reach me ... parth_2001@icloud.com
+# Hi, I'm Parth 👋
 
-<!---
-parth-patwardhan/parth-patwardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## AI/ML Engineer | M.Sc. Computer Science (Autonomous Systems) @ Universität Stuttgart
+
+🎓 Graduating February 2026 | 🇩🇪 Based in Stuttgart, Germany
+
+### 🔭 Current Focus
+- Completing Master's thesis on Collision-Aware Trajectory Prediction for Autonomous Driving
+- Building production LLM systems at AnyDesk Software GmbH
+- Actively seeking full-time AI/ML Engineering roles in Germany
+
+### 💼 Experience Highlights
+- **AI/ML Engineer @ AnyDesk** (2 years): Built LLM-powered support chatbot, managed Fortune 500 deployments
+- Azure Data Factory ETL pipelines for enterprise clients
+- Specialization: Autonomous Systems, LLMs, Computer Vision
+
+### 🏆 Featured Projects
+- [Collision-Aware Trajectory Prediction] - Master's Thesis (ongoing)
+- [Lab AI Project - Grade 1.0] - Top performer in Autonomous Systems Lab
+- [LLM Support Chatbot] - Production system at AnyDesk
+
+### 🛠️ Tech Stack
+`Python` `PyTorch` `TensorFlow` `Azure` `LangChain` `Computer Vision` `NLP`
+
+### 📫 Let's Connect
+[LinkedIn] | [Email] | 🇩🇪 German: B2 Certified
