@@ -16,8 +16,8 @@
 
 ### 🏆 Featured Projects
 - [Collision-Aware Trajectory Prediction] - Master's Thesis (ongoing)
-- [Lab AI Project - Grade 1.0] - Top performer in Autonomous Systems Lab
-- [LLM Support Chatbot] - Production system at AnyDesk
+- [Lab AI Project - Grade 1.0] - Top performer in Deep Learning Lab
+- [LLM Support Chatbot] - Production system at AnyDesk Gmbh
 
 ### 🛠️ Tech Stack
 `Python` `PyTorch` `TensorFlow` `Azure` `LangChain` `Computer Vision` `NLP`
