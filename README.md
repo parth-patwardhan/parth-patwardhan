@@ -23,4 +23,4 @@
 `Python` `PyTorch` `TensorFlow` `Azure` `LangChain` `Computer Vision` `NLP`
 
 ### 📫 Let's Connect
-[LinkedIn] | [Email] | 🇩🇪 German: B2 Certified
+🇩🇪 German: B2 Certified
