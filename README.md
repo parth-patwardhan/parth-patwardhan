@@ -25,7 +25,7 @@ stack = {
 ### [StemAgent — Self-Specializing AI Research Agent](https://github.com/parth-patwardhan/Stem-Agent-JetBrains)
 Agentic framework built with Claude Opus implementing a custom **OBSERVE → ARCHITECT → VALIDATE → ITERATE → EXECUTE** lifecycle. The agent autonomously reconfigures its own reasoning architecture at runtime based on the task domain. Uses LangGraph-style orchestration, REST APIs, and MCP for tool integration. JetBrains AI Engineering challenge submission.
 
-### SafeDAG — Collision-Aware Trajectory Prediction *(M.Sc. Thesis)*
+### [SafeDAG — Collision-Aware Trajectory Prediction](https://github.com/parth-patwardhan/SafeDAG-mm) *(M.Sc. Thesis)*
 GNN/GAT model for autonomous driving, evaluated on the nuScenes dataset.
 
 | Scenario | Baseline | SafeDAG |
